@@ -9,7 +9,7 @@ Assignment artefacts for CISC7204 Assgn01 (2026), collected in the folder
 | --- | --- |
 | `cisc7204-Assgn01-2026-MC651611/` | The twelve Jupyter notebooks of the assignment as executed |
 | `cisc7204-Assgn01-2026-MC651611/sreenshot/` | The screenshots taken while completing the labs, grouped by notebook |
-| `cisc7204-Assgn01-2026-MC651611/截图说明文档/` | The screenshot discussion documents (headings plus a short discussion for every screenshot) |
+| `cisc7204-Assgn01-2026-MC651611/Screenshot-Discussion/` | The screenshot discussion documents (headings plus a short discussion for every screenshot) |
 
 ## Notebooks
 

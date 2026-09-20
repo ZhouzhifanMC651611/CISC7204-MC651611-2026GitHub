@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+__MACOSX/
+.ipynb_checkpoints/
+*.pyc
+__pycache__/

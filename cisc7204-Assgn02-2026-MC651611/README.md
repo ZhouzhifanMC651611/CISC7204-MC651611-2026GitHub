@@ -7,7 +7,21 @@ University of Macau, CISC7204 Data Science and Data Visualization (2026-1, Class
 ## What this repository contains
 
 Completed lab artefacts for the five modules of Assignment 02, the screenshots
-used in the personal forums, and the revised pair project proposal.
+used in the personal forums, the revised pair project proposal, and the
+complete work package completed by the other Pair 07 member.
+
+### Partner work - YOU YUQI (MC65223)
+
+The complete partner work package is stored under:
+
+| Path | Contents |
+|---|---|
+| `Partner-YOU-YUQI-MC65223/Module03/` | Module 03 Lab 01 and Lab 02 notebooks with their supporting data and Folium output |
+| `Partner-YOU-YUQI-MC65223/Module05-Practice/` | Module 05 Practice Lab 01 notebook and Lab 02 Dash project |
+| `Partner-YOU-YUQI-MC65223/Module05-Final/` | Module 05 Final Lab 02 project archive and runnable Dash project |
+| `Partner-YOU-YUQI-MC65223/screenshots/` | Executed code and output screenshots grouped by lab |
+| `Partner-YOU-YUQI-MC65223/booklets/` | Complete screenshot booklets for Module 03 and Module 05 |
+| `Partner-YOU-YUQI-MC65223/README.md` | Partner submission summary and delivery checklist |
 
 ### Module 01 - Introduction to Data Visualization
 

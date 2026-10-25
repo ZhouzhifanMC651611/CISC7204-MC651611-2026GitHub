@@ -73,7 +73,7 @@ The complete partner work package is stored under:
 | Path | Contents |
 |---|---|
 | `screenshots/` | Screenshots of each major task (code and executed output), grouped by lab and numbered in notebook order |
-| `CISC7204-Assgn02-RevisedProjectProposal.docx` | Revised pair project proposal, 5 A4 pages |
+| `CISC7204-Assgn02-Pair07-RevisedProjectProposal.docx` | Final revised pair project proposal, 5 A4 pages |
 
 ## Running the notebooks
 
